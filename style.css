@@ -1,0 +1,71 @@
+*{background-color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+text-transform: capitalize;
+
+}
+p{
+color: white;
+font-size: large;
+
+
+}
+#home{
+color: white;
+}
+#home>span{
+color: yellow;
+}
+.navbar>a{
+color: white;
+text-decoration: none;
+padding: 10px;
+
+}
+.navbar>:hover{
+color: yellow;
+cursor: pointer;
+
+
+}
+#work{
+color: yellow;
+}
+.exp{
+color:yellow
+}
+.pres{
+color: white;
+}
+.pres>:hover{
+color: aqua;
+}
+.build{
+color: white;
+}
+.build>:hover{
+color: aqua;
+}
+#resume{
+color:yellow;
+}
+#contact{
+color:white;
+text-decoration: none;
+text-align: center;
+}
+p{
+font-size: larger;
+}
+.input{
+color: yellow;
+font-size: large;
+text-transform: capitalize;
+text-shadow: 50px;
+border-radius: 15px;
+}
+.button{
+color:yellow;
+border-color:white;
+font-size: larger;
+}
